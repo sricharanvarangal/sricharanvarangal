@@ -82,11 +82,11 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:sricharanvarangal@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/varangalsricharan/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
