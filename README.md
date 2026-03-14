@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sri Charan</h1>
+<h3 align="center">AI | Cloud | Cybersecurity Enthusiast</h3>
 
-<!--
-**sricharanvarangal/sricharanvarangal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Gen AI Student | Cloud & AI Builder
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Student  
+- ☁️ Learning **Cloud & AI Systems**
+- 🔐 Interested in **Cybersecurity**
+- 💻 Building **AI + Cloud projects**
+- 🚀 Goal: Become **AI Engineer**
+
+---
+
+## ⚡ Tech Stack
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+</p>
+
+### Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+</p>
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws,linux,docker,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sricharanvarangal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricharanvarangal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sricharanvarangal&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sricharanvarangal&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+- 🤖 AI Enhanced System Optimization
+- 🔍 Darknet Watch
+- 🏥 Hospital EMR System
+- 🌐 Network Traffic Analyzer
+- ⚡ System Design Projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sricharanvarangal">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+⭐ From [sricharanvarangal](https://github.com/sricharanvarangal)
